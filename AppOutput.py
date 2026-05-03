@@ -68,7 +68,7 @@ def draw_plot():
 
 # ── GUI Layout ────────────────────────────────────────────────
 root = tk.Tk()
-root.title("Trip Time Plotter")
+root.title("Divvy Trip Time Estimate Visualizer")
 root.configure(bg='#F5F6FA')
 
 frame_inputs = tk.Frame(root, bg='#F5F6FA', pady=10)
